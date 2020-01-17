@@ -1,4 +1,4 @@
-package com.google.zlotnikova;
+package com.gmail.zlotnikova;
 
 import static org.junit.Assert.assertTrue;
 

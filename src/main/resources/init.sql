@@ -1,0 +1,1 @@
+CREATE DATABASE IF NOT EXISTS jd2_homework5_6;
